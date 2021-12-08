@@ -1,5 +1,7 @@
 # ios-learning-resources
 
+To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
 ## Websites
 
 ### [Learn to code with Apple](https://developer.apple.com/learn/curriculum/) - Free and Paid Content
