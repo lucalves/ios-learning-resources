@@ -21,6 +21,14 @@ To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 > At LetsBuildThatApp, Brian do his best to teach you how to build working apps from the AppStore, i.e. YouTube, Facebook, FB Messenger, etc. Go beyond making simple blog and calculator apps to explore how professionals create million dollar projects.
 
+### [Paul Hudson](https://www.youtube.com/c/PaulHudson) - English
+
+> Paul is a full-time Swift author and speaker, and he runs the site Hacking with Swift where you'll find well over a thousand free tips, techniques, and tutorials for Swift.
+
+### [Sean Allen](https://www.youtube.com/c/SeanAllen) - English
+
+> Sean uploads three videos per week about Swift and iOS Development from an iOS Engineer in Silicon Valley. Tutorials, VLOGs, Interview Questions, and LIVE on Sundays.
+
 
 ## Courses and Learning Platforms
 
@@ -31,3 +39,7 @@ To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 ### [Udacity](https://www.udacity.com/) - English | Paid Content
 
 > Udacity is an online education provider that offers online courses, popularly known as “MOOCs” or Massive Open Online Courses.
+
+### [Stanford - CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/) - English | Free Content
+
+> This course explains the fundamentals of how to build applications for iPhone and iPad using SwiftUI.
