@@ -29,6 +29,10 @@ To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 > Sean uploads three videos per week about Swift and iOS Development from an iOS Engineer in Silicon Valley. Tutorials, VLOGs, Interview Questions, and LIVE on Sundays.
 
+### [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg) - English
+
+> Afraz is a current Microsoft Engineer and share all that he have learned over the years!
+
 
 ## Courses and Learning Platforms
 
