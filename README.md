@@ -8,8 +8,9 @@ To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 > This is Apple's own website that has several resources to assist the developer. From XCode instructions, fundamental content to professional courses offered by Apple itself.
 
-### [iOS and SwiftUI for Begineers](https://www.raywenderlich.com/ios/paths/learn) | Paid Content
+### [iOS and SwiftUI for Begineers](https://www.raywenderlich.com/ios/paths/learn) | Free Content
 
+> In this learning path, you’ll build two fully-functional iOS apps, and go into depth with the Swift Programming Language to learn how to create the logic behind your app.
 
 ## YouTube Contents
 
