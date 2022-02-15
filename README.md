@@ -1,4 +1,4 @@
-# ios-learning-resources
+# ios-learning-resources 📙
 
 To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
