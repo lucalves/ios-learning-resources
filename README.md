@@ -1,6 +1,6 @@
-# ios-learning-resources 📙
+# ios-learning-resources 🐦
 
-To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+List of resources to learn ios development.
 
 ## Websites
 
@@ -48,3 +48,7 @@ To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 ### [Stanford - CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/) - English | Free Content
 
 > This course explains the fundamentals of how to build applications for iPhone and iPad using SwiftUI.
+
+## Contributing
+
+To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
