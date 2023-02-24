@@ -49,6 +49,10 @@ List of resources to learn ios development.
 
 > This course explains the fundamentals of how to build applications for iPhone and iPad using SwiftUI.
 
+### [Apple Teaching Code](https://www.apple.com/br/education/k12/teaching-code/) - English | Free Content
+
+> Apple offers courses for you to teach programming, whether for beginners or for those who want to get certified in Swift.
+
 ## Contributing
 
 To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
