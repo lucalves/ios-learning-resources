@@ -1,4 +1,4 @@
-# ios-learning-resources 🐦
+# ios-learning-resources
 
 List of resources to learn ios development.
 
