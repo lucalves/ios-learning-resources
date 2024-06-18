@@ -1,6 +1,6 @@
 # ios-learning-resources
 
-List of resources to learn ios development.
+List of resources to learn iOS development.
 
 ## Websites
 
