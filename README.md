@@ -34,7 +34,6 @@ List of resources to learn iOS development.
 
 > Afraz is a current Microsoft Engineer and share all that he have learned over the years!
 
-
 ## Courses and Learning Platforms
 
 ### [Udemy](https://www.udemy.com/) - English and Portuguese | Free and Paid Content
