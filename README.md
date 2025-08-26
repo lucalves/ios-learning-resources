@@ -55,3 +55,7 @@ List of resources to learn iOS development.
 ## Contributing
 
 To contribute to this repository, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## License
+
+MIT
